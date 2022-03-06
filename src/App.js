@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Recipes from './components/Recipes';
 import "bootstrap/dist/css/bootstrap.css";
 
+//Functions start here
 function App() {
  const [search,setSearch] = useState("");
  const [recipes, setRecipes] = useState([]);
