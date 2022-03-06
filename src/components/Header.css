@@ -1,0 +1,11 @@
+.jumbtron{
+   background-color: rgb(235, 86, 27); 
+   color:#ffffff;
+   padding:40px 0px;
+   text-align: center;
+}
+
+.btn:hover{
+   color:rgb(235, 86, 27);
+   background-color: white;
+}

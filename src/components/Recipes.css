@@ -1,0 +1,14 @@
+ .recipeTile{
+    background-color: rgb(235, 129, 87);
+    display: flex;
+   }
+
+/* .recipeTile__img{
+    height:220px;
+    width:220px;
+    border-radius:4px;
+}
+
+ .recipeTile__name{
+   color:rgb(235, 86, 27);
+}    */
